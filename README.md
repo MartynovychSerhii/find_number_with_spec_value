@@ -1,8 +1,8 @@
 # find_number_with_spec_value
 Requirements:
-● Programming language - Python3.
-● Code should be clean and structured.
-● The solution should be stored and presented with GitHub.
+1 Programming language - Python3.
+2 Code should be clean and structured.
+3 The solution should be stored and presented with GitHub.
 Problem:
 Given an array of integers numbers and an integer target. Implement function
 def sum_of_two(numbers: list, target: int) -> list to return indices of the two numbers
